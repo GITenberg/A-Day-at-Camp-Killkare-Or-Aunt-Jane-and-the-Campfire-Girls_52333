@@ -1,0 +1,25 @@
+_repo: A-Day-at-Camp-Killkare-Or-Aunt-Jane-and-the-Campfire-Girls_52333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yale, Elsie Duncan
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '45344'
+    url: http://www.gutenberg.org/2009/agents/45344
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Drama'
+- !lcsh 'Camp Fire Girls -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: A Day at Camp Killkare; Or, Aunt Jane and the Campfire Girls
+url: http://www.gutenberg.org/ebooks/52333
